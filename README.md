@@ -28,9 +28,11 @@ Networking: OkHttp / Retrofit for structured, asynchronous JSON contract communi
 
 Plaintext
 BreedNode/
-├── breednode-backend/     # FastAPI server scripts (main.py), model weights (.pth), and API endpoint configuration
-├── breednode-android/     # Complete native Android Studio project container (app, assets, gradle configurations)
-└── colab/    # Google Colab notebooks (.ipynb) capturing data preprocessing and PyTorch model training cycles
+             ├── breednode-backend/     # FastAPI server scripts (main.py), model weights (.pth), and API endpoint configuration
+             
+               ├── breednode-android/     # Complete native Android Studio project container (app, assets, gradle configurations)
+               
+                     └── colab/    # Google Colab notebooks (.ipynb) capturing data preprocessing and PyTorch model training cycles
 
 🚀 How to Run the Project Locally
 
