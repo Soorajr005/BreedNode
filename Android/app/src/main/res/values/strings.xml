@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BreedNode</string>
+    <string name="identify_breed">Identify Breed</string>
+    <string name="pick_image">Pick Cow Image</string>
+    <string name="find_vet">Find Nearest Veterinary Center</string>
+    <string name="top_predictions">Top 3 Predictions (Tap to expand)</string>
+    <string name="origin">📍 Origin</string>
+    <string name="utility">🏗️ Utility</string>
+    <string name="milk_yield">🥛 Milk Yield</string>
+    <string name="traits">🐄 Traits</string>
+    <string name="no_image_selected">No Image Selected</string>
+</resources>

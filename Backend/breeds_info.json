@@ -1,0 +1,345 @@
+{
+  "Amritmahal": {
+    "origin": "Karnataka (Hassan, Chikmagalur)",
+    "utility": "Draught (Elite)",
+    "milk_yield": "572 kg (Average per lactation)",
+    "traits": "Long vertical horns with black tips; grey coat; fiery temperament.",
+    "fact": "Renowned for power and endurance; historically used by the Mysore army."
+  },
+  "Ayrshire": {
+    "origin": "Scotland (Organized Indian Farms)",
+    "utility": "Milch",
+    "milk_yield": "4000 - 5000 kg",
+    "traits": "Red and white markings; high set horns; efficient forage conversion.",
+    "fact": "Known for high-quality milk production and being a hardy dairy breed."
+  },
+  "bachaur": {
+    "origin": "Sitamarhi district, Bihar",
+    "utility": "Draught",
+    "milk_yield": "1.5 - 2.0 Liters per day (Subsistence)",
+    "traits": "Compact body; white/grey coat; well-developed hump.",
+    "fact": "Specifically suited for heavy agricultural work in the plains of North Bihar."
+  },
+  "badri": {
+    "origin": "Hilly regions of Uttarakhand",
+    "utility": "Milch & Draught",
+    "milk_yield": "500 - 800 kg per lactation",
+    "traits": "Small sized hill cattle; black, brown or red coat.",
+    "fact": "First certified breed of Uttarakhand; milk has very high medicinal value."
+  },
+  "Bargur": {
+    "origin": "Bargur hills, Tamil Nadu",
+    "utility": "Draught",
+    "milk_yield": "1.5 - 2.0 Liters per day",
+    "traits": "Brown coat with white patches (Speckled); fast walkers.",
+    "fact": "Specially bred for working in rugged hilly forest terrains."
+  },
+  "bhelai": {
+    "origin": "Haryana and Chandigarh",
+    "utility": "Dual Purpose",
+    "milk_yield": "1000 - 1200 kg per lactation",
+    "traits": "Reddish-brown coat; medium size; hardy nature.",
+    "fact": "Migratory breed traditionally kept by the Gujjar community."
+  },
+  "dagri": {
+    "origin": "Hilly tracts of Gujarat",
+    "utility": "Draught",
+    "milk_yield": "400 - 600 kg per lactation",
+    "traits": "Small, compact body; predominantly white coat.",
+    "fact": "Highly localized breed known for its extreme heat tolerance."
+  },
+  "Dangi": {
+    "origin": "Maharashtra (Nasik, Ahmednagar)",
+    "utility": "Draught",
+    "milk_yield": "175 - 800 kg (Avg: 430 kg)",
+    "traits": "Broken red/white coat; oily skin that repels rain.",
+    "fact": "Specifically adapted to survive in extremely heavy rainfall areas."
+  },
+  "Deoni": {
+    "origin": "Latur, Maharashtra & Karnataka",
+    "utility": "Dual Purpose",
+    "milk_yield": "636 - 1230 kg (Avg: 940 kg)",
+    "traits": "Distinct black and white spots; drooping ears; Gir-like forehead.",
+    "fact": "Bred from Gir and Dangi; highly docile and heat tolerant."
+  },
+  "gangatari": {
+    "origin": "UP and Bihar border",
+    "utility": "Dual Purpose",
+    "milk_yield": "900 - 1200 kg per lactation",
+    "traits": "Complete white color; medium sized; alert appearance.",
+    "fact": "Found on the fertile banks of the Ganges River."
+  },
+  "gaolao": {
+    "origin": "Wardha and Nagpur, Maharashtra",
+    "utility": "Draught",
+    "milk_yield": "470 - 725 kg (Avg: 604 kg)",
+    "traits": "Long narrow face; white coat; very high hump.",
+    "fact": "Noted for exceptional walking and trotting speed for transport."
+  },
+  "ghumsari": {
+    "origin": "Ganjam and Nayagarh, Odisha",
+    "utility": "Draught",
+    "milk_yield": "450 - 650 kg per lactation",
+    "traits": "Grey coat; small sized; short horns.",
+    "fact": "Survives with minimal resources in low-resource hilly areas."
+  },
+  "Gir": {
+    "origin": "Saurashtra, Gujarat",
+    "utility": "Milch",
+    "milk_yield": "2000 - 4000 kg per lactation",
+    "traits": "Prominent domed forehead; long leaf-like pendulous ears.",
+    "fact": "World-famous dairy breed; exported to Brazil to create Nelore cattle."
+  },
+  "Hallikar": {
+    "origin": "Tumkur and Mandya, Karnataka",
+    "utility": "Draught",
+    "milk_yield": "500 - 600 kg (Subsistence)",
+    "traits": "Long vertical horns; compact and muscular build.",
+    "fact": "Regarded as the premier draft breed of India for agriculture."
+  },
+  "Hariana": {
+    "origin": "Rohtak, Hisar and Jind, Haryana",
+    "utility": "Dual Purpose",
+    "milk_yield": "600 - 800 kg per lactation",
+    "traits": "White color; small horns; powerful build.",
+    "fact": "The most versatile and popular breed in Northern India."
+  },
+  "Himachali Pahari": {
+    "origin": "Hilly tracts of Himachal Pradesh",
+    "utility": "Dual Purpose",
+    "milk_yield": "500 - 1000 kg per lactation",
+    "traits": "Small size; thick coat for cold; agile.",
+    "fact": "Adapted specifically for rocky mountain terrains."
+  },
+  "Kangayam": {
+    "origin": "Coimbatore and Erode, Tamil Nadu",
+    "utility": "Draught",
+    "milk_yield": "600 - 800 kg per lactation",
+    "traits": "Grey/black coat; short horns; very powerful neck.",
+    "fact": "Famous for the traditional Jallikattu sport in Tamil Nadu."
+  },
+  "Kankrej": {
+    "origin": "Banaskantha, Gujarat",
+    "utility": "Dual Purpose",
+    "milk_yield": "1360 - 1700 kg per lactation",
+    "traits": "Large lyre-shaped horns; silver-grey color.",
+    "fact": "Heaviest Indian breed; known for the rhythmic 'Sawai Chal' gait."
+  },
+  "Kenkatha": {
+    "origin": "Ken river bank, MP/UP",
+    "utility": "Draught",
+    "milk_yield": "500 - 600 kg per lactation",
+    "traits": "Small size; grey coat; attractive small horns.",
+    "fact": "Sturdy breed adapted to Bundelkhand's semi-arid climate."
+  },
+  "Khariar": {
+    "origin": "Nuapada district, Odisha",
+    "utility": "Draught",
+    "milk_yield": "400 - 600 kg per lactation",
+    "traits": "Small, hardy; multi-colored coat patterns.",
+    "fact": "Resistant to common tropical diseases in forest areas."
+  },
+  "kherigarh": {
+    "origin": "Lakhimpur Kheri, Uttar Pradesh",
+    "utility": "Draught",
+    "milk_yield": "300 - 500 kg (Subsistence)",
+    "traits": "White coat; active and very fast walkers.",
+    "fact": "Ideally suited for light plowing and carting work."
+  },
+  "Khillari": {
+    "origin": "Solapur and Satara, Maharashtra",
+    "utility": "Draught",
+    "milk_yield": "300 - 500 kg (Subsistence)",
+    "traits": "Long curved horns; sleek powerful build; grey color.",
+    "fact": "Famous for speed and endurance in bullock cart racing."
+  },
+  "Konkan Kapila": {
+    "origin": "Konkan region, Maharashtra",
+    "utility": "Draught",
+    "milk_yield": "400 - 600 kg per lactation",
+    "traits": "Black or brown coat; small to medium size.",
+    "fact": "Well adapted to the humid, coastal Konkan climate."
+  },
+  "Kosali": {
+    "origin": "Chhattisgarh plains",
+    "utility": "Draught",
+    "milk_yield": "1100 - 1300 kg (Average: 1180 kg)",
+    "traits": "Small size; grey or white coat; short horns.",
+    "fact": "Resistant to pests and thrives on low-quality forage."
+  },
+  "Krishna_Valley": {
+    "origin": "Krishna river valley, Karnataka",
+    "utility": "Draught",
+    "milk_yield": "Avg: 916 kg per lactation",
+    "traits": "Massive frame; deep loosely built body; short horns.",
+    "fact": "Bred for heavy plowing in the black cotton soil of the valley."
+  },
+  "Ladakhi": {
+    "origin": "Leh and Kargil, J & K",
+    "utility": "Draught",
+    "milk_yield": "300 - 500 kg per lactation",
+    "traits": "Thick hair coat; small stature; high hump.",
+    "fact": "Only Indian breed capable of surviving at 15,000+ feet altitude."
+  },
+  "Lakhimi": {
+    "origin": "Brahmaputra valley, Assam",
+    "utility": "Dual Purpose",
+    "milk_yield": "400 - 600 kg per lactation",
+    "traits": "Small stature; multi-colored; humid climate adapted.",
+    "fact": "Crucial for local organic farming in North-East India."
+  },
+  "Malnad_gidda": {
+    "origin": "Malnad region, Karnataka",
+    "utility": "Dual Purpose",
+    "milk_yield": "300 - 500 kg per lactation",
+    "traits": "Tiny dwarf size; very short horns; multi-colored.",
+    "fact": "Milk and urine have significant medicinal value in Ayurveda."
+  },
+  "malvi": {
+    "origin": "Malwa plateau, Madhya Pradesh",
+    "utility": "Draught",
+    "milk_yield": "400 - 600 kg (Subsistence)",
+    "traits": "Sturdy build; white or grey coat; thick horns.",
+    "fact": "Adapted for survival in rocky and semi-arid terrain."
+  },
+  "Mewati": {
+    "origin": "Alwar, Rajasthan and Haryana",
+    "utility": "Dual Purpose",
+    "milk_yield": "800 - 1200 kg per lactation",
+    "traits": "Docile nature; white color; medium horns.",
+    "fact": "Important breed for small-scale dairy and farm work."
+  },
+  "motu": {
+    "origin": "Malkangiri, Odisha",
+    "utility": "Draught",
+    "milk_yield": "300 - 500 kg per lactation",
+    "traits": "Dwarf hill breed; brown or grey; short stature.",
+    "fact": "Primary source of draught power for tribal farmers in hills."
+  },
+  "nagori": {
+    "origin": "Nagaur, Rajasthan",
+    "utility": "Draught",
+    "milk_yield": "600 - 800 kg per lactation",
+    "traits": "Fast trotting gait; sleek and powerful body.",
+    "fact": "Considered the best trotting breed in the world for transport."
+  },
+  "Nari": {
+    "origin": "Sirohi and Banaskantha, Gujarat",
+    "utility": "Dual Purpose",
+    "milk_yield": "1100 - 1500 kg per lactation",
+    "traits": "Large frame; white coat; lyre horns.",
+    "fact": "Highly resistant to heat and common tropical diseases."
+  },
+  "Nimari": {
+    "origin": "Nimar region, Madhya Pradesh",
+    "utility": "Draught",
+    "milk_yield": "600 - 800 kg per lactation",
+    "traits": "Distinct copper-red coat with white spots.",
+    "fact": "Highly beautiful and distinctive draught breed of Central India."
+  },
+  "Ongole": {
+    "origin": "Nellore, Andhra Pradesh",
+    "utility": "Dual Purpose",
+    "milk_yield": "Avg: 1000 kg per lactation",
+    "traits": "Large muscular frame; white coat; short horns.",
+    "fact": "Global benchmark for hardiness; exported to create Nelore cattle."
+  },
+  "Poda Thirupu": {
+    "origin": "Nagarkurnool, Telangana",
+    "utility": "Draught",
+    "milk_yield": "400 - 600 kg per lactation",
+    "traits": "White/grey markings; medium sized; hardy.",
+    "fact": "Used primarily for agricultural work in the Deccan plateau."
+  },
+  "ponwar": {
+    "origin": "Pilibhit, Uttar Pradesh",
+    "utility": "Draught",
+    "milk_yield": "300 - 500 kg (Subsistence)",
+    "traits": "Black and white markings; small size; active.",
+    "fact": "Active walkers suited for light agricultural work."
+  },
+  "Pulikulam": {
+    "origin": "Madurai and Sivaganga, Tamil Nadu",
+    "utility": "Draught",
+    "milk_yield": "300 - 500 kg per lactation",
+    "traits": "Grey/black coat; short horns; powerful neck.",
+    "fact": "Indigenous breed used in the traditional Jallikattu sport."
+  },
+  "Punganur": {
+    "origin": "Chittoor, Andhra Pradesh",
+    "utility": "Milch",
+    "milk_yield": "300 - 500 kg per lactation",
+    "traits": "World's shortest humped cattle; dwarf stature.",
+    "fact": "Milk has exceptionally high fat content (8%); used in rituals."
+  },
+  "Purnea": {
+    "origin": "Araria and Purnia, Bihar",
+    "utility": "Dual Purpose",
+    "milk_yield": "600 - 800 kg per lactation",
+    "traits": "Small sized; white/grey; hardy for floods.",
+    "fact": "Adapted to the flood-prone plains of North Bihar."
+  },
+  "Rathi": {
+    "origin": "Bikaner and Ganganagar, Rajasthan",
+    "utility": "Milch",
+    "milk_yield": "1500 - 2500 kg per lactation",
+    "traits": "Brown/white patches; medium sized; docile.",
+    "fact": "Life-line of farmers in the extreme heat of the Thar desert."
+  },
+  "Red kandhari": {
+    "origin": "Nanded, Maharashtra",
+    "utility": "Draught",
+    "milk_yield": "Avg: 88 kg at weaning",
+    "traits": "Deep mahogany red color; majestic hump.",
+    "fact": "A source of cultural pride and power in Marathwada."
+  },
+  "Red_Sindhi": {
+    "origin": "Organized farms (Source: Pakistan)",
+    "utility": "Milch",
+    "milk_yield": "1100 - 2600 kg per lactation",
+    "traits": "Deep red color; compact build; high hump.",
+    "fact": "Extremely heat tolerant and resistant to tropical diseases."
+  },
+  "Shweta Kapila": {
+    "origin": "North and South Goa",
+    "utility": "Milch",
+    "milk_yield": "800 - 1200 kg per lactation",
+    "traits": "All white; small to medium size.",
+    "fact": "Native breed adapted to coastal forest areas."
+  },
+  "siri": {
+    "origin": "Sikkim and Darjeeling",
+    "utility": "Draught",
+    "milk_yield": "600 - 1000 kg per lactation",
+    "traits": "Thick coat; black/white patches; massive hump.",
+    "fact": "Only Indian breed adapted to high-altitude cold."
+  },
+  "Tharparkar": {
+    "origin": "Tharparkar region (Rajasthan)",
+    "utility": "Dual Purpose",
+    "milk_yield": "1800 - 2600 kg per lactation",
+    "traits": "White or grey coat; lyre horns; deep body.",
+    "fact": "Excellent desert adaptability; coat changes color with seasons."
+  },
+  "thutho": {
+    "origin": "Phek and Kohima, Nagaland",
+    "utility": "Draught",
+    "milk_yield": "300 - 500 kg (Subsistence)",
+    "traits": "Medium sized; brown/grey; very hardy.",
+    "fact": "Newly registered breed essential for hilly Nagaland."
+  },
+  "Umblachery": {
+    "origin": "Nagapattinam, Tamil Nadu",
+    "utility": "Draught",
+    "milk_yield": "400 - 800 kg per lactation",
+    "traits": "White face markings; grey body.",
+    "fact": "Calves are born red and turn grey upon maturity."
+  },
+  "Vechur": {
+    "origin": "Kottayam, Kerala",
+    "utility": "Milch",
+    "milk_yield": "500 - 900 kg per lactation",
+    "traits": "Extremely small dwarf; light red or grey.",
+    "fact": "World's smallest cow; milk has unique medicinal qualities."
+  }
+}

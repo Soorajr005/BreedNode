@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ब्रीडनोड</string>
+    <string name="identify_breed">नस्ल की पहचान करें</string>
+    <string name="pick_image">फोटो चुनें</string>
+    <string name="find_vet">नजदीकी पशु चिकित्सक खोजें</string>
+    <string name="top_predictions">प्रमुख परिणाम (जानकारी के लिए टैप करें)</string>
+    <string name="origin">📍 मूल स्थान</string>
+    <string name="utility">🏗️ उपयोगिता</string>
+    <string name="milk_yield">🥛 दूध की मात्रा</string>
+    <string name="traits">🐄 लक्षण</string>
+    <string name="no_image_selected">कोई फोटो नहीं चुनी गई</string>
+</resources>
